@@ -29,6 +29,7 @@ public class StudentList {
 
         for (Student students2 : students) {
             System.out.println(students2.getName());
+            System.out.println("Hello World");
             
        }
     }
