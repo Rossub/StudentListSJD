@@ -24,7 +24,7 @@ public class StudentList {
         students[1] = new Student("Kristin");
         students[2] = new Student("Gege");
         students[3] = new Student("Ryan");
-        students[4] = new Student("Ahmed");
+        students[4] = new Student("Ram");
 
 
         for (Student students2 : students) {
